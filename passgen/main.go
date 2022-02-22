@@ -7,7 +7,6 @@ import (
 	"time"
 )
 
-// variables
 var (
 	lowercase = "abcdefghijklmnopqrstuvwxyz"
 	uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZJK"
